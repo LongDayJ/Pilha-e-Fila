@@ -1,6 +1,12 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/*
+NÃO SEI OQUE ACONTECEU, MAS TEM DAR RUN 2 VEZES PARA FUNCIONAR!
+Autor: Juarez José da Silva Júnior
+Instituição: Unifacol
+*/
+
 public class Fila {
     static ArrayList<String> fila = new ArrayList<>();
 
