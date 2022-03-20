@@ -39,6 +39,10 @@ public class Fila {
             System.out.println("O elemento " + fila.get(0) + " é o começo da fila");
         }
     }
+    
+    public static void size() {
+        System.out.println(fila.size());
+    }
 
     public static void clear() {
         if (vazio() == true) {
@@ -93,6 +97,7 @@ public class Fila {
             }
             if (numa == 6) {
                 System.out.println(fila);
+                size();
 
             }
             if (numa == 0) {
